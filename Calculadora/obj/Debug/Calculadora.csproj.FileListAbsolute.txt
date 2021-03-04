@@ -1,0 +1,14 @@
+C:\Users\gutok\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gutok\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gutok\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.frm_Padrão.resources
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gutok\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gutok\source\repos\calculadora\Calculadora\obj\Debug\Calculadora.frm_Científica.resources
+C:\Users\gutok\source\repos\calculadora\Calculadora\obj\Debug\Calculadora.fmr_Sobre.resources
+C:\Users\gutok\source\repos\calculadora\Calculadora\obj\Debug\Calculadora.fms_Estatística.resources
+C:\Users\gutok\source\repos\calculadora\Calculadora\obj\Debug\Calculadora.frm_Programador.resources
